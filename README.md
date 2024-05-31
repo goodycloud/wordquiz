@@ -1,4 +1,5 @@
 # wordquiz
+coded by C
 
 ## Introduction
 WordQuiz는 단어 퀴즈 애플리케이션으로, 사용자가 다양한 방식으로 단어를 학습하고 퀴즈를 통해 지식을 
