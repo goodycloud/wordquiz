@@ -1,4 +1,4 @@
-````markdown
+
 # 🛠️ Mini CLI Tool Project
 
 이 프로젝트는 리눅스 환경에서 간단한 C 기반 CLI 프로그램을 작성하고,  
@@ -22,7 +22,7 @@ mini-cli/
      └─ images/
          ├─ linux_run.png
          └─ docker_run.png
-````
+
 
 ---
 
@@ -201,6 +201,3 @@ furnished to do so, subject to the following conditions:
 * [https://gcc.gnu.org/](https://gcc.gnu.org/)
 * [https://learn.microsoft.com/windows/wsl/](https://learn.microsoft.com/windows/wsl/)
 * [https://choosealicense.com/](https://choosealicense.com/)
-
-```
-```
