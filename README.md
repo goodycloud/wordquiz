@@ -1,6 +1,3 @@
-오케이, **예전에 만든 설명은 그대로 두고** 거기에 **이미지 링크만 추가한 README**야.
-그냥 통째로 복붙해서 `README.md`에 넣으면 된다.
-
 ````markdown
 # 🛠️ Mini CLI Tool Project
 
